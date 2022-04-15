@@ -1,5 +1,11 @@
-## Credit-Card-Default-Prediction
+<h1 align="center"> Credit Card Fraud Default </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ![Screenshot (221)](https://user-images.githubusercontent.com/85070726/161040462-af2e6889-89ed-4f83-ae52-c483854246a3.png)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Objectives
 From the prespective of risk management of customer, identify the fraud commited by credit card payment and identify the model for which transaction are most likely to fraudulent or not. this is the crucial problem in finance sector need to overcome by predicting the model.
@@ -9,6 +15,8 @@ From the prespective of risk management of customer, identify the fraud commited
 **credit_card_fraud_prediction_capstone_project** - It include the required function to train the model and predict the transaction are fraudulent or not.
 
 **Technical_documentation** - It include the necessary documentation in the project.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Logistic Regresssion
 it is classification algorithm which predict the probability of outcome that can only have two values 0 and 1 and it produce logistic curve or s-shape curve which limited to value between 0 and 1. we can use lostic regression for binary classification we use sigmoidal function 1/1+e^-x to introduce non linearity in the data.
@@ -27,9 +35,18 @@ We use max likelihood and gradient descent as a optimizer algorithm to train log
 
 **5.F1-Score** - the F1 score conveys the balance between the precision and the recall in the binary classification. The F1 Score is the 2*((precision*recall)/(precision+recall)). 
 
-## CREDITS 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- Shubhangi Dharmik | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+ Shubhangi Dharmik  | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shubhangi-dharmik-49083a122)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhangidharmik)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shubhangidharmik95)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Reference
 https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
