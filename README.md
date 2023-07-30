@@ -42,7 +42,7 @@ We use max likelihood and gradient descent as a optimizer algorithm to train log
 
  Shubhangi Dharmik  | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shubhangi-dharmik-49083a122)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shubhangi-dharmik)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhangidharmik)
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shubhangidharmik95)
 
